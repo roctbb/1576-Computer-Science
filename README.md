@@ -5,12 +5,12 @@
 ## Занятие 1
 
 1. Что такое компьютерные науки? Что в них входит?
-   - Презентация
-   - [Outline of Computer Science - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_computer_science)
+   - Презентация.
+   - [Outline of Computer Science - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_computer_science).
 2. Язык программирования Python.
-   - Ввод и вывод данных
-   - Арифметические операции
-   - Переменные
+   - Ввод и вывод данных.
+   - Арифметические операции.
+   - Переменные.
    
 ### ДЗ 1
 
