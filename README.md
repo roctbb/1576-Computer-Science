@@ -6,7 +6,7 @@
 
 1. Что такое компьютерные науки? Что в них входит?
    - Презентация
-   - [https://en.wikipedia.org/wiki/Outline_of_computer_science](Outline of Computer Science - Wikipedia)
+   - [Outline of Computer Science - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_computer_science)
 2. Язык программирования Python.
    - Ввод и вывод данных
    - Арифметические операции
