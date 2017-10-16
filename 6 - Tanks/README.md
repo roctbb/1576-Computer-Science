@@ -24,8 +24,8 @@ def make_choice(x,y,field):
 Выстрел поражает только одного противника, но на произвольном расстоянии.
 
 ```python
-def make_choice(x,y,field):
-    import random
+
+import random
 
 def make_choice(x,y,field):
     actions = ["fire_up", "fire_down",
