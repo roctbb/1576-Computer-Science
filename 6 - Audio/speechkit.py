@@ -92,7 +92,7 @@ def record_to_text(data, request_id=uuid.uuid4().hex, topic='notes', lang='ru-RU
 def text_to_record(text, speaker='jane', emotion='neutral', speed=1.0):
     log("Преобразование текста в речь")
     filename = 'speech.wav'
-    url = 'https://tts.voicetech.yandex.net/generate?text={text}&format=wav&lang=ru-RU&speaker=jane&key={key}&speaker={speaker}&emotion={emotion}&speed={speed}'.format(
+    url = 'https://tts.voicetech.yandex.net/generate?text={text}&format=wav&lang=ru-RU&key={key}&speaker={speaker}&emotion={emotion}&speed={speed}'.format(
         text=urllib.parse.quote(text),
         key=KEY, speaker=speaker, emotion=emotion, speed=speed)
     urllib.request.urlretrieve(url, filename)
