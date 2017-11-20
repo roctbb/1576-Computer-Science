@@ -32,5 +32,5 @@ def record(seconds, framerate=16000):
     return data
 
 text = record_to_text(record(4))
-file = text_to_record(text)
+file = text_to_record(text, speaker='zahar', emotion='evil')
 play_file(file)
